@@ -7,3 +7,7 @@ Es una tecnica que nos permite crear sitios adaptables a condiciones del ordenad
 
 Para el desarrollo de este repositorio se utilizara la tecnica mobile first el cual se aplicara al siguiente [proyecto](https://www.figma.com/proto/sMmlQaZldfDcLERYYWe6h4/Bata-Bit?node-id=44%3A594&scaling=scale-down)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3124040af90c397d685e782df814313d653c4cc0

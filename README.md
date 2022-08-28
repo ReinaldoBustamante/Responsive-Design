@@ -7,5 +7,5 @@
 
 ## Contenido 
 
-- [¿Que es?](https://github.com/ReinaldoBustamante/Responsive-Design/blob/main/Indice/1)
-- [Analizando el diseño](https://github.com/ReinaldoBustamante/Responsive-Design/blob/main/Indice/2)
+- [¿Que es?](https://github.com/ReinaldoBustamante/Responsive-Design/tree/main/indice/1)
+- [Analizando el diseño](https://github.com/ReinaldoBustamante/Responsive-Design/tree/main/indice/2)
