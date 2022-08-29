@@ -86,3 +86,123 @@ header img{
     margin-left: 6px;
     background-image: url(../../assets/icons/down-arrow.svg);
 }
+
+.main--tasas-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    background-color: var(--off-white);
+}
+.main--tasas-container img{
+    margin-top: 39px;
+    width: 195px;
+    height: 195px;
+    
+}
+.main--tasas-container h2{
+    text-align: center;
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+.main--tasas-container p{
+    font-size: 1.4rem;
+    text-align: center;
+    color: #757575;
+    width: 90%;
+}
+
+.tasa-info h3{
+    color: var(--bitcoin-orange);
+    font-size: 1.8rem;
+    margin-left: 10px;
+}
+.tasa-info{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tasa-info--grid{
+    display: grid;
+    grid-template-columns: repeat(2,100px);
+    gap: 4px;
+    margin-top: 10px;
+
+}
+.tasa-info--grid p{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 18px;
+    background-color: var(--just-white);
+    border-radius: 8px;   
+}
+.tasa-info--grid p:nth-child(2n){
+    justify-content: center;
+}
+
+.trending-down{
+    width: 12px;
+    height: 12px;
+    margin-left: 8px;
+    background-image: url("../../assets/icons/trending-down.svg");
+}
+.trending-up{
+    width: 12px;
+    height: 12px;
+    margin-left: 8px;
+    background-image: url("../../assets/icons/trending-up.svg");
+}
+.actualizar{
+    margin-top: 14px;
+    padding: 12px;
+    display: inline-block;
+    width: 220px;
+    background-color: var(--soft-orange);
+    border-radius: 8px;
+    margin-bottom: 40px;
+    
+}
+.actualizar p{
+    width: 100%;
+    text-align: center;
+}
+.actualizar span{
+    color: black;
+    font-weight: 700;
+}
+
+
+.beneficios{
+    background-color: var(--black);
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+.beneficios h2{
+    margin-top: 39px;
+    font-size: 2.4rem;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    width: 80%;
+}
+.beneficios p{
+    margin-top: 16px;
+    font-size: 1.4rem;
+    color: #808080;
+    margin-bottom: 20px;
+}
+.card{
+    margin-bottom: 16px;
+    width: 90%;
+    min-width: 288px;
+    max-width: 400px;
+    height: 152px;
+    background-color: #282623;
+    border-radius: 8px;
+}
