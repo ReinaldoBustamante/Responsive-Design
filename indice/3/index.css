@@ -243,6 +243,8 @@ header img{
     width: 320px;
     height: 387px;
     background-image: url("../../assets/img/bitcoinbaby.jpg");
+    background-repeat: no-repeat;
+
 }
 .hero h2{
     text-align: center;
