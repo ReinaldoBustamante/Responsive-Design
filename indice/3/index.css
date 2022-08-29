@@ -240,10 +240,14 @@ header img{
 }
 
 .hero{
-    width: 320px;
+    width: 100%;
+    min-width: 320px;
     height: 387px;
     background-image: url("../../assets/img/bitcoinbaby.jpg");
     background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover
+
 
 }
 .hero h2{
