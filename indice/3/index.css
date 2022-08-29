@@ -205,4 +205,48 @@ header img{
     height: 152px;
     background-color: #282623;
     border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 16px;
+ 
+   
+}
+.card p{
+    margin:0;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+.card h3{
+    font-size: 1.8rem;
+    color: white;
+}
+.icon-time{
+    background: url('../../assets/icons/clock.svg');
+}
+.icon-eye{
+    background: url('../../assets/icons/eye.svg');
+}
+.icon-dollar{
+    background: url('../../assets/icons/dollar-sign.svg');
+}
+.icon-check{
+    background: url('../../assets/icons/check-circle.svg');
+}
+.icon{
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+}
+
+.hero{
+    width: 320px;
+    height: 387px;
+    background-image: url("../../assets/img/bitcoinbaby.jpg");
+}
+.hero h2{
+    text-align: center;
+    font-size: 2.4rem;
+    color: white;
+    padding-top: 70px;
 }
