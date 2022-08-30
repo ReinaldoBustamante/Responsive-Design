@@ -1,0 +1,9 @@
+.plans-container--slider{
+    justify-content: center;
+}
+.container-beneficio{
+    display: grid;
+    grid-template-columns: repeat(2,minmax(300px,400px));
+    place-items: center;
+
+}
